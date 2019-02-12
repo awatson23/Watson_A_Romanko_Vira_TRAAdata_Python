@@ -1,1 +1,10 @@
-# Watson_A_Romanko_Vira_TRAAdata_Python
+# TRAA Fishery charts
+
+# Programs used:
+Python
+Matplotlib
+Microsoft Excel
+
+# Made by
+Vira Romanko
+Cadence Watson
